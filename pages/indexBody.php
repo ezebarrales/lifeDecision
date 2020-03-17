@@ -15,7 +15,7 @@
             </a>
           </div>
           <div class="col-sm-4">
-            <a class="cta-box cta-box-primary" href="/Contacts.php">
+            <a class="cta-box cta-box-primary" href="/contacts.php">
               <h1 class="cta-box-heading" style="margin-top: 30px;">Contacto</h1>
             </a>
           </div>
