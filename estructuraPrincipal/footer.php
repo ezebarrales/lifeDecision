@@ -1,6 +1,6 @@
 <footer>
 <div class="containerfooter">
-  <p> Made with love by Virginia </p>
+  <p> This is the footer </p>
 </div> 
 
 </footer>
